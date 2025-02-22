@@ -1,14 +1,9 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         
-        store = dict()
-        l = 0
-        r = len(nums) - 1
-        for num in nums:
-            if num not in store:
-                store[num] = ""
-        i = 0
-        for x,y in store.items():
-            nums[i] = x
-            i+=1
-        return len(store)
+        j = 1
+        for i in range(1,len(nums)):
+            if nums[i]!=nums[i-1]:
+                nums[j] = nums[i]
+                j+=1
+        return j
