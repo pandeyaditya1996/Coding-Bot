@@ -1,6 +1,12 @@
 # Coding-Bot
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 
+Array 
+
+0088-merge-sorted-array --> REMEMBER BACKFILL SOLN AND SPECIAL CASE
+
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
