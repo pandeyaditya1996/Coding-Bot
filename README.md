@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
