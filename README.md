@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
