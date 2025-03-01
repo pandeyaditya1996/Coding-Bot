@@ -1,11 +1,12 @@
 class Solution:
 
-    def reverse(self, seq, start, stop):
-        size = stop + start
-        for i in range(start, (size + 1) // 2):
-            j = size - i
-            seq[i], seq[j] = seq[j], seq[i]
+    def reverse(self, nums, start, end):
 
+        while start<end:
+            nums[start],nums[end] = nums[end],nums[start]
+            start+=1
+            end-=1
+        return nums
 
     def rotate(self, nums: List[int], k: int) -> None:
         """
