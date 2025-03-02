@@ -33,6 +33,7 @@ Array
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Array
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
