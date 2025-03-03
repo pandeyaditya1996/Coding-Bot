@@ -27,6 +27,7 @@ Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -51,6 +52,7 @@ Array
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1894-merge-strings-alternately) |
@@ -79,6 +81,7 @@ Array
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
