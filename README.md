@@ -17,6 +17,7 @@ Array
 | [0015-3sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) | REMEMBER BACKFILL SOLN AND SPECIAL CASE
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0219-contains-duplicate-ii) |
@@ -79,4 +80,8 @@ Array
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
