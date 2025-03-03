@@ -4,16 +4,12 @@ class Solution:
         store = set()
         left = 0
         ans = 0
-        for i in range(len(s)):
-            if s[i] not in store:
-                store.add(s[i])
-            else:
-                ans = max(ans,i - left)
-                while(s[left]!=s[i]):
-                    store.remove(s[left])
-                    left+=1
+        for right in range(len(s)):
+            while(s[right] in store):
+                store.remove(s[left])
                 left+=1
-        return max(ans, len(s)-left)
-
+            store.add(s[right])
+            ans = max(ans, right - left + 1)
+        return ans
                 
      
