@@ -13,6 +13,7 @@ Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) | REMEMBER BACKFILL SOLN AND SPECIAL CASE
@@ -28,6 +29,7 @@ Array
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
@@ -50,6 +52,7 @@ Array
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
