@@ -1,10 +1,10 @@
 class Solution:
-    def maxProfit(self, nums: List[int]) -> int:
-
-        high = 0
-        ans = 0
-        for num in nums[::-1]:
-            high = max(num, high)
-            ans = max(ans, high - num)
-        return ans
+    def maxProfit(self, prices: List[int]) -> int:
         
+        ans = float('-inf')
+        high = float('-inf')
+        for price in prices[::-1]:
+            high = max(high, price)
+            ans = max(ans, high - price)
+
+        return ans
