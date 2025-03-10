@@ -16,6 +16,7 @@ Array
 | [0011-container-with-most-water](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) | REMEMBER BACKFILL SOLN AND SPECIAL CASE
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0136-single-number) |
@@ -92,6 +93,7 @@ Array
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
 ## Math
@@ -124,4 +126,8 @@ Array
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
