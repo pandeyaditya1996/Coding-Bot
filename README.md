@@ -29,6 +29,7 @@ Array
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
+| [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -54,6 +55,7 @@ Array
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
+| [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
@@ -116,6 +118,7 @@ Array
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +136,8 @@ Array
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
