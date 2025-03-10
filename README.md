@@ -29,6 +29,7 @@ Array
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
+| [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -53,6 +54,7 @@ Array
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -84,6 +86,7 @@ Array
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
