@@ -21,6 +21,7 @@ Array
 | [0136-single-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
@@ -30,6 +31,7 @@ Array
 | ------- |
 | [0001-two-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +73,7 @@ Array
 | ------- |
 | [0015-3sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
