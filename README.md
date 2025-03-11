@@ -160,4 +160,12 @@ Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
