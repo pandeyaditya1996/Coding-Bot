@@ -106,6 +106,7 @@ Array
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
@@ -119,6 +120,7 @@ Array
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 ## Binary Search
@@ -142,4 +144,8 @@ Array
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
