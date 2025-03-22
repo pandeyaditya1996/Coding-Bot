@@ -103,6 +103,7 @@ Array
 | ------- |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -168,4 +169,16 @@ Array
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
