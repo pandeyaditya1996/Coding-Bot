@@ -78,6 +78,7 @@ Array
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
@@ -101,6 +102,7 @@ Array
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
