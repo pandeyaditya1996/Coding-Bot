@@ -9,7 +9,6 @@ class Solution:
                 currSum = num
             else:
                 currSum+=num
-
-            maxSum = max(maxSum, currSum)
+            maxSum = max(currSum, maxSum)
 
         return maxSum
