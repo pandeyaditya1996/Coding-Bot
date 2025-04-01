@@ -20,6 +20,7 @@ Array
 | [0053-maximum-subarray](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) | REMEMBER BACKFILL SOLN AND SPECIAL CASE
@@ -116,6 +117,7 @@ Array
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
 ## Math
@@ -165,6 +167,7 @@ Array
 | ------- |
 | [0048-rotate-image](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0074-search-a-2d-matrix) |
 ## Enumeration
