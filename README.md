@@ -119,6 +119,7 @@ Array
 | [0070-climbing-stairs](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0367-valid-perfect-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
 ## Sliding Window
 |  |
@@ -141,6 +142,7 @@ Array
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0792-binary-search) |
 ## Counting Sort
 |  |
