@@ -24,6 +24,7 @@ Array
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0217-contains-duplicate) |
@@ -141,6 +142,7 @@ Array
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0278-first-bad-version) |
