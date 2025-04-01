@@ -140,6 +140,7 @@ Array
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0792-binary-search) |
 ## Counting Sort
 |  |
@@ -185,4 +186,8 @@ Array
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
