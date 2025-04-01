@@ -19,6 +19,7 @@ Array
 | [0053-maximum-subarray](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) | REMEMBER BACKFILL SOLN AND SPECIAL CASE
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0136-single-number) |
@@ -139,6 +140,7 @@ Array
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0278-first-bad-version) |
@@ -156,6 +158,7 @@ Array
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0074-search-a-2d-matrix) |
 ## Enumeration
 |  |
 | ------- |
