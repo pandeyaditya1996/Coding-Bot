@@ -13,17 +13,15 @@ class Solution:
                 total+=math.ceil(elem/num)
                 if total>h:
                     return False
-            print('T', num, total)
             return True
 
-        piles.sort()
+
         l = 1
-        r = piles[-1]
+        r = max(piles)
         ans = r
         while(l<=r):
             mid = (l+r)//2
             stat = check(mid, piles)
-            print(mid, stat)
             if not stat:
                 l = mid+1
             else:
