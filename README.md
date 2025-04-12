@@ -153,6 +153,7 @@ Array
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0792-binary-search) |
 ## Counting Sort
 |  |
@@ -206,4 +207,5 @@ Array
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
