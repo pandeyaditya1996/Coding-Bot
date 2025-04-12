@@ -124,6 +124,7 @@ Array
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@ Array
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0209-minimum-size-subarray-sum) |
