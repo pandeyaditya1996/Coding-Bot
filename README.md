@@ -41,6 +41,7 @@ Array
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
+| [0907-koko-eating-bananas](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
@@ -160,6 +161,7 @@ Array
 | [0367-valid-perfect-square](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0907-koko-eating-bananas) |
 ## Counting Sort
 |  |
 | ------- |
