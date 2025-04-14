@@ -43,6 +43,7 @@ Array
 | [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -162,6 +163,7 @@ Array
 | [0374-guess-number-higher-or-lower](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Counting Sort
 |  |
 | ------- |
