@@ -44,6 +44,7 @@ Array
 | [0792-binary-search](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0907-koko-eating-bananas) |
+| [1018-largest-perimeter-triangle](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1306-minimum-absolute-difference) |
@@ -102,6 +103,7 @@ Array
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Array
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -139,6 +142,7 @@ Array
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0367-valid-perfect-square) |
+| [1018-largest-perimeter-triangle](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1018-largest-perimeter-triangle) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
 ## Sliding Window
 |  |
