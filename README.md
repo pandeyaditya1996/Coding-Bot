@@ -40,6 +40,7 @@ Array
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0907-koko-eating-bananas) |
@@ -118,6 +119,7 @@ Array
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
@@ -211,6 +213,7 @@ Array
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
