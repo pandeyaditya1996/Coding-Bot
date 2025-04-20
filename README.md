@@ -49,6 +49,7 @@ Array
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1395-minimum-time-visiting-all-points) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ Array
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -132,6 +134,7 @@ Array
 | [0059-spiral-matrix-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Array
 | [0059-spiral-matrix-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0074-search-a-2d-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Enumeration
 |  |
 | ------- |
