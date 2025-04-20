@@ -6,9 +6,8 @@ class Solution:
                 return player
 
         def rowCheck(matrix, player):
-            for row in matrix:
-                if row in [["o","o","o"],["x","x","x"]]:
-                    return player
+            if ["o","o","o"] in matrix or ["x","x","x"] in matrix:
+                return player
 
         def colCheck(matrix, player):
             first_col = (matrix[0][0] == matrix[1][0] == matrix[2][0])
@@ -27,9 +26,7 @@ class Solution:
             matrix[i][j] = "x" if player == "A" else "o"
             checker = rowCheck(matrix,player) or colCheck(matrix,player) or diagonalCheck(matrix, player)
             if checker:
-                print(matrix)
                 return checker
             count+=1
 
-        print(matrix)
         return "Draw" if len(moves)==9 else "Pending"
