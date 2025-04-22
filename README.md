@@ -125,6 +125,7 @@ Array
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0739-daily-temperatures) |
@@ -221,6 +222,7 @@ Array
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
