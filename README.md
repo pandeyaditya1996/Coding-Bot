@@ -38,6 +38,7 @@ Array
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0739-daily-temperatures) |
@@ -157,6 +158,7 @@ Array
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
