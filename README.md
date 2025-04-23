@@ -65,6 +65,7 @@ Array
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0560-subarray-sum-equals-k) |
+| [1297-maximum-number-of-balloons](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1297-maximum-number-of-balloons) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2406-decode-the-message](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/2406-decode-the-message) |
@@ -104,6 +105,7 @@ Array
 | [0392-is-subsequence](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
+| [1297-maximum-number-of-balloons](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1297-maximum-number-of-balloons) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1894-merge-strings-alternately) |
 | [2406-decode-the-message](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/2406-decode-the-message) |
@@ -190,6 +192,7 @@ Array
 ## Counting Sort
 |  |
 | ------- |
+| [1297-maximum-number-of-balloons](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1297-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
