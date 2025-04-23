@@ -78,6 +78,7 @@ Array
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1019-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ Array
 | [0003-longest-substring-without-repeating-characters](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -166,6 +168,7 @@ Array
 | [0070-climbing-stairs](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0875-longest-mountain-in-array) |
 ## Binary Search
 |  |
