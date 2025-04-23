@@ -17,6 +17,7 @@ Array
 | [0015-3sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0056-merge-intervals) |
@@ -58,6 +59,7 @@ Array
 | ------- |
 | [0001-two-sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0217-contains-duplicate) |
@@ -103,6 +105,7 @@ Array
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
@@ -121,6 +124,7 @@ Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0217-contains-duplicate) |
