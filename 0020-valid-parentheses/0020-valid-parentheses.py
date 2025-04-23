@@ -2,12 +2,12 @@ class Solution:
     def isValid(self, s: str) -> bool:
         
         stk = []
-        bracket_map = {')':'(',"}":"{","]":"["}
-        for char in s:
-            if char in '({[':
-                stk.append(char)
+        mapper = {"}":"{",")":"(","]":"["}
+        for i in s:
+            if i in "({[":
+                stk.append(i)
             else:
-                if not stk or stk[-1]!=bracket_map.get(char):
+                if not stk or mapper[i]!=stk[-1]:
                     return False
                 stk.pop()
         return not stk
