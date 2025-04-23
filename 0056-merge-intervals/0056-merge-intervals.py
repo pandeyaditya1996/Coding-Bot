@@ -4,15 +4,15 @@ class Solution:
         intervals.sort()
         first = intervals[0][0]
         second = intervals[0][1]
+
         ans = []
-        for x,y in intervals[1:]:
-            if x>second:
-                ans.append([first, second])
-                first = x
-            second = max(y, second)
-        
-        ans.append([first, second])
+        for initial,final in intervals[1:]:
+            if initial>second:
+                ans.append([first,second])
+                first = initial
+                second = final
+            else:
+                first = min(first,initial)
+                second = max(second, final)
+        ans.append([first,second])
         return ans
-
-
-
