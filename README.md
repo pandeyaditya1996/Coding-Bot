@@ -96,6 +96,7 @@ Array
 | [0136-single-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0268-missing-number) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Array
 | [0424-longest-repeating-character-replacement](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0680-valid-palindrome-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1297-maximum-number-of-balloons) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1894-merge-strings-alternately) |
 | [2406-decode-the-message](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/2406-decode-the-message) |
@@ -154,6 +156,7 @@ Array
 | [0682-baseball-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/0735-asteroid-collision) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyaditya1996/Coding-Bot/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
 |  |
 | ------- |
